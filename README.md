@@ -71,12 +71,11 @@ After compilation, execute the program `Lab9` to run the package shipping system
 ./Lab9
 ```
 
-### Author
-
-```markdown
 ## Author
 
+```markdown
 - Trent Tucker
+```
 
 ## Date
 
